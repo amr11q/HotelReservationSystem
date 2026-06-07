@@ -1,7 +1,10 @@
-﻿using HotelReservationSystem.Rooms;
-using HotelReservationSystem.Users;
+﻿using HotelReservationSystem.Data;
 using HotelReservationSystem.Payments;
 using HotelReservationSystem.Reservations;
+using HotelReservationSystem.Rooms;
+using HotelReservationSystem.Users;
+
+
 
 namespace HotelReservationSystem
 {
@@ -16,12 +19,20 @@ namespace HotelReservationSystem
         static Reservation[] reservations = new Reservation[100];
         static int reservationCount = 0;
 
-
+      
 
     
             static void Main(string[] args)
             {
-                int choice;
+
+            FileManager.LoadRooms(rooms, ref roomCount);
+            FileManager.LoadCustomers(customers, ref customerCount);
+            FileManager.LoadReservations(reservations, ref reservationCount);
+
+
+
+
+            int choice;
 
                 do
                 {
@@ -79,7 +90,8 @@ namespace HotelReservationSystem
                             break;
 
                         case 10:
-                            Console.WriteLine("Good Bye");
+                        
+                        Console.WriteLine("Good Bye");
                             break;
 
                         default:
@@ -149,7 +161,7 @@ namespace HotelReservationSystem
                
                 rooms[roomCount] = room;
                 roomCount++;
-
+                FileManager.SaveRooms(rooms, roomCount);
                 Console.WriteLine("Room Added Successfully");
             }
 
@@ -242,7 +254,7 @@ namespace HotelReservationSystem
 
                         customers[customerCount] = customer;
                         customerCount++;
-
+                        FileManager.SaveCustomers(customers, customerCount);
                         Console.WriteLine("Customer Added Successfully!");
                     }
                     catch
@@ -390,22 +402,12 @@ namespace HotelReservationSystem
                         double totalCost =
                             selectedRoom.CalculateTotalCost(nights);
 
-                        Reservation reservation =
-                            new Reservation(
-                                reservationId,
-                                selectedCustomer,
-                                selectedRoom,
-                                checkIn,
-                                checkOut,
-                                totalCost,
-                                "Confirmed"
-                                
-                               
-                            );
+                        Reservation reservation = new Reservation(reservationId,selectedCustomer,selectedRoom,checkIn,checkOut,
+                                totalCost,"Confirmed");
 
                         reservations[reservationCount] = reservation;
                         reservationCount++;
-
+                        FileManager.SaveReservations(reservations, reservationCount);
                         selectedRoom.IsAvailable = false;
 
                         Console.WriteLine("Reservation Created Successfully!");

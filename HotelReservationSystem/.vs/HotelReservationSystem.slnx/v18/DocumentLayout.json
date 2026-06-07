@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\data\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\data\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\users\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\users\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\users\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\users\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\users\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\users\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\rooms\\deluxeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\payments\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\payments\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|e:\\hoootel\\hotelreservationsystem\\hotelreservationsystem\\data\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\data\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,23 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\Payment.cs",
-              "RelativeDocumentMoniker": "HotelReservationSystem\\Payments\\Payment.cs",
-              "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\Payment.cs",
-              "RelativeToolTip": "HotelReservationSystem\\Payments\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:23:40.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Staff.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Users\\Staff.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Users\\Staff.cs",
@@ -82,8 +70,7 @@
               "RelativeToolTip": "HotelReservationSystem\\Users\\Staff.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:22:41.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T06:22:41.865Z"
             },
             {
               "$type": "Document",
@@ -93,14 +80,14 @@
               "RelativeDocumentMoniker": "HotelReservationSystem\\Program.cs",
               "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Program.cs",
               "RelativeToolTip": "HotelReservationSystem\\Program.cs",
-              "ViewState": "AgIAAGsCAAAAAAAAAAAjwHsCAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAEEBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T06:15:34.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Rooms\\Room.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Rooms\\Room.cs",
@@ -112,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StandardRoom.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Rooms\\StandardRoom.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Rooms\\StandardRoom.cs",
@@ -124,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DeluxeRoom.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Rooms\\DeluxeRoom.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Rooms\\DeluxeRoom.cs",
@@ -136,46 +123,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Reservation.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Reservations\\Reservation.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Reservations\\Reservation.cs",
               "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Reservations\\Reservation.cs",
               "RelativeToolTip": "HotelReservationSystem\\Reservations\\Reservation.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswGQAAACdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGQAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:25:09.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T06:25:09.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Users\\Customer.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Users\\Customer.cs",
               "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Users\\Customer.cs",
               "RelativeToolTip": "HotelReservationSystem\\Users\\Customer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:22:04.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T06:22:04.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Users\\User.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Users\\User.cs",
               "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Users\\User.cs",
               "RelativeToolTip": "HotelReservationSystem\\Users\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:21:43.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T06:21:43.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Data\\FileManager.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Data\\FileManager.cs",
+              "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Data\\FileManager.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Data\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:30:43.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Payments\\Payment.cs",
+              "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\Payment.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Payments\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:23:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CreditCardPayment.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\CreditCardPayment.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Payments\\CreditCardPayment.cs",
@@ -187,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CashPayment.cs",
               "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Payments\\CashPayment.cs",
               "RelativeDocumentMoniker": "HotelReservationSystem\\Payments\\CashPayment.cs",
@@ -196,18 +204,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T06:24:00.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FileManager.cs",
-              "DocumentMoniker": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Data\\FileManager.cs",
-              "RelativeDocumentMoniker": "HotelReservationSystem\\Data\\FileManager.cs",
-              "ToolTip": "E:\\Hoootel\\HotelReservationSystem\\HotelReservationSystem\\Data\\FileManager.cs",
-              "RelativeToolTip": "HotelReservationSystem\\Data\\FileManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:30:43.705Z"
             }
           ]
         }

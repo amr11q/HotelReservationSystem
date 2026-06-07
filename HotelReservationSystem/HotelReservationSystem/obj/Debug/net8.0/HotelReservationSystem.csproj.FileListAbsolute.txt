@@ -12,3 +12,4 @@ E:\Hoootel\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\refint
 E:\Hoootel\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.pdb
 E:\Hoootel\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.genruntimeconfig.cache
 E:\Hoootel\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\ref\HotelReservationSystem.dll
+E:\Hoootel\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.sourcelink.json
